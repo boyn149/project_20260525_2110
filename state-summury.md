@@ -30,3 +30,9 @@
 - **Sequence:** preface -> con-a-b-c (36 topics) -> reference -> bio -> contact
 - **Citations Removed:** Yes
 - **Meta Info Removed:** Yes
+
+## Phase 3: เตรียม Git Repository
+- **Status:** Completed
+- **Repository:** https://github.com/boyn149/project_20260525_2110
+- **Branch:** main
+- **Files Pushed:** Everything except folder `src`, `scripts`, `notebooklm-py-light`, `gemini-api`, and `.vscode`.

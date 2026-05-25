@@ -33,7 +33,7 @@
 
 >💡 **The Siren's Secret** : ความรู้สึกแปลกแยกไม่ใช่ข้อบกพร่องที่คุณต้องซ่อมแซม แต่มันคือ "ลายเซ็น" ของคุณ จงหยุดพยายามลดทอนความซับซ้อนของตัวเองเพื่อให้คนอื่นสบายใจ เพราะคนที่คู่ควรกับคุณ คือคนที่จะหลงใหลในความซับซ้อนนั้นอย่างถอนตัวไม่ขึ้น
 
-[PROMPT: A minimal 16:8 Informational Infographic showing a single glowing female figure standing out confidently and elegantly among a crowd of plain grey figures. The text prominently displays "ความแปลกแยก คือต้นกำเนิดของเสน่ห์ (The Power of Being Different)". Pointing to the glowing figure, a small text box reads "เสน่ห์แห่งความลึกลับน่าค้นหา". Use soft pastel colors and graceful icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Informational Infographic showing a single glowing female figure standing out confidently and elegantly among a crowd of plain grey figures. The text prominently displays "ความแปลกแยก คือต้นกำเนิดของเสน่ห์ (The Power of Being Different)". Pointing to the glowing figure, a small text box reads "เสน่ห์แห่งความลึกลับน่าค้นหา". Use soft pastel colors and graceful icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book1/pic_book1/infographic_book1_1.png)
 
 ## หัวข้อที่ 1.2 แกะรอยระบบปฏิบัติการ INFJ: เข้าใจ Cognitive Function (Ni, Fe, Ti, Se)
 
@@ -97,7 +97,7 @@
 
 >✨ **Esther's Secret** : เสน่ห์ที่ทรงพลังที่สุดไม่ได้เกิดจากการป่าวประกาศให้โลกรับรู้ว่าเราน่าสนใจแค่ไหน แต่เกิดจากการ "ทิ้งพื้นที่ว่าง" ให้เขาได้ใช้จินตนาการวาดภาพความสมบูรณ์แบบของคุณขึ้นมาในหัวของเขาเองค่ะ 
 
-[PROMPT: A minimal 16:8 Grid Infographic comparing 'Active Pursuit (การรุกเข้าหา)' vs 'Passive Attraction (การดึงดูดเชิงรับ)'. Show that Passive Attraction uses 'Mystery (ความลึกลับ)' and 'Space (การเว้นระยะ)' to draw people in smoothly. Use soft pastel colors and simple elegant icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยทั้งหมดเท่านั้น.]
+![ A minimal 16:8 Grid Infographic comparing 'Active Pursuit (การรุกเข้าหา)' vs 'Passive Attraction (การดึงดูดเชิงรับ)'. Show that Passive Attraction uses 'Mystery (ความลึกลับ)' and 'Space (การเว้นระยะ)' to draw people in smoothly. Use soft pastel colors and simple elegant icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยทั้งหมดเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book1/pic_book1/infographic_book1_2.png)
 
 ## หัวข้อที่ 2.2 จิตวิทยาของ The Siren: เสน่ห์เย้ายวนที่ทำงานผ่านความสงบและการดึงดูด
 
@@ -150,7 +150,7 @@
 
 คุณอาจจะคิดว่าความเสียสละนี้จะทำให้เขารักคุณอย่างลึกซึ้ง แต่ความจริงก็คือ เมื่อไหร่ที่เขา "หายดี" หรือคุณ "หมดพลัง" ความสัมพันธ์นี้ก็จะจบลงด้วยความว่างเปล่าและทิ้งให้คุณรู้สึกสูญเสียตัวตนค่ะ
 
-[PROMPT: A minimal 16:8 Flowchart Infographic showing the cycle of 'The Fixer Syndrome' for INFJ. Step 1: 'Ni มองเห็นศักยภาพที่ซ่อนอยู่'. Step 2: 'Fe รู้สึกเห็นอกเห็นใจและอยากรักษา'. Step 3: 'กลายเป็นผู้กอบกู้ (The Savior)'. Step 4: 'พลังงานหมดและสูญเสียตัวตน'. Use soft pastel arrows and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Flowchart Infographic showing the cycle of 'The Fixer Syndrome' for INFJ. Step 1: 'Ni มองเห็นศักยภาพที่ซ่อนอยู่'. Step 2: 'Fe รู้สึกเห็นอกเห็นใจและอยากรักษา'. Step 3: 'กลายเป็นผู้กอบกู้ (The Savior)'. Step 4: 'พลังงานหมดและสูญเสียตัวตน'. Use soft pastel arrows and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book1/pic_book1/infographic_book1_3.png)
 
 **วิธีแก้ไขเพื่อหลุดพ้นจาก The Fixer Syndrome**
 
@@ -267,7 +267,7 @@
 
 >💡 **Siren's Secret** : ความเงียบไม่ใช่ความว่างเปล่า แต่คือพื้นที่ที่คุณสร้างขึ้นเพื่ออนุญาตให้อีกฝ่ายก้าวเข้ามาเปิดเผยตัวตน เมื่อเขาพูดมากขึ้น เขาจะยิ่งลงทุนทางความรู้สึกกับคุณมากขึ้นโดยไม่รู้ตัว
 
-[PROMPT: A minimal 16:8 Process Infographic showing the power of deep listening for INFJ. Step 1: 'ใช้ Fe สร้างพื้นที่ปลอดภัยให้เขาพูด'. Step 2: 'ใช้ Ni อ่านความหมายที่ซ่อนอยู่'. Step 3: 'ครอบงำจิตใจผ่านความเข้าใจอย่างลึกซึ้ง'. Use soft pastel colors, ear and mind icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Process Infographic showing the power of deep listening for INFJ. Step 1: 'ใช้ Fe สร้างพื้นที่ปลอดภัยให้เขาพูด'. Step 2: 'ใช้ Ni อ่านความหมายที่ซ่อนอยู่'. Step 3: 'ครอบงำจิตใจผ่านความเข้าใจอย่างลึกซึ้ง'. Use soft pastel colors, ear and mind icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book1/pic_book1/infographic_book1_5.png)
 
 เพื่อที่จะใช้เครื่องมือนี้ให้เกิดประสิทธิภาพสูงสุด เอสเธอร์แนะนำให้คุณปรับใช้กลยุทธ์ดังต่อไปนี้ค่ะ:
 
@@ -336,7 +336,7 @@
 | **การแสดงความเห็น** | รีบให้คำแนะนำเพื่อช่วยเหลือเพราะความหวังดี | ตั้งคำถามปลายเปิดอย่างแยบคาย เพื่อให้เขาค้นพบคำตอบและรู้สึกภูมิใจในตัวเอง |
 | **การปรับตัว** | โอนอ่อนตามความต้องการของเขาจนสูญเสียขอบเขต (Boundaries) | ปรับจูนบรรยากาศให้กลมกลืน แต่ยังคงยืนหยัดในจุดยืนและความลึกลับของตัวเอง |
 
-[PROMPT: A minimal 16:8 Informational Infographic showing the mechanism of INFJ's Fe combined with The Charmer archetype. Visual elements include a glowing heart symbolizing 'Extraverted Feeling (Fe)' and a gentle ear symbolizing 'Deep Listening', connecting softly to a target. Key texts: 'รับฟังอย่างลึกซึ้ง (Deep Listening)', 'สะท้อนอารมณ์ (Emotional Mirroring)', and 'ยืนยันคุณค่า (Validating Ego)'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Informational Infographic showing the mechanism of INFJ's Fe combined with The Charmer archetype. Visual elements include a glowing heart symbolizing 'Extraverted Feeling (Fe)' and a gentle ear symbolizing 'Deep Listening', connecting softly to a target. Key texts: 'รับฟังอย่างลึกซึ้ง (Deep Listening)', 'สะท้อนอารมณ์ (Emotional Mirroring)', and 'ยืนยันคุณค่า (Validating Ego)'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book1/pic_book1/infographic_book1_6.png)
 
 ด้วยการประยุกต์ใช้ *Extraverted Feeling* ในลักษณะนี้ คุณจะสามารถปลดล็อกพลังแห่งความเข้าใจผู้อื่นให้กลายเป็นแม่เหล็กดึงดูดใจ โดยไม่ต้องฝืนธรรมชาติเพื่อเป็นฝ่ายวิ่งตามหรือพยายามทำให้ตัวเองดูโดดเด่นเรียกร้องความสนใจ เพราะในท้ายที่สุดแล้ว ผู้คนมักจะหลงรักคนที่ทำให้พวกเขารู้สึกรักตัวเองมากขึ้นเสมอ
 
@@ -407,7 +407,7 @@
 
 >🔥 **The Coquette Secret** : เคล็ดลับของความร้อนสลับเย็นไม่ใช่การทำตัวงี่เง่าหรือเล่นตัวแบบไร้เหตุผลนะคะ แต่มันคือการแสดงให้เขาเห็นว่า คุณสามารถมอบความสัมพันธ์ที่ลึกซึ้งให้เขาได้ แต่ในขณะเดียวกันคุณก็ **"อยู่ได้ด้วยตัวเองอย่างสมบูรณ์แบบ"** และพร้อมจะสงวนท่าทีหากเขาไม่พยายามมากพอ
 
-[PROMPT: A minimal 16:8 Process Infographic showing the "Hot and Cold" strategy for INFJ to stimulate the hunter instinct. Step 1: 'จังหวะ Hot (อบอุ่น) - ใช้ Fe สื่อสารและให้ความใส่ใจอย่างเต็มที่เมื่ออยู่ด้วยกัน'. Step 2: 'จังหวะ Cold (ถอยห่าง) - ถอดปลั๊กและกลับเข้าสู่โลกส่วนตัว ทิ้งระยะห่างให้เขาคิดถึง'. Step 3: 'สัญชาตญาณนักล่าทำงาน - เกิดแรงดึงดูดและความปรารถนาที่จะเข้าหาคุณอีกครั้ง'. Use soft pastel colors, thermometer or flame/ice icons, and a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Process Infographic showing the "Hot and Cold" strategy for INFJ to stimulate the hunter instinct. Step 1: 'จังหวะ Hot (อบอุ่น) - ใช้ Fe สื่อสารและให้ความใส่ใจอย่างเต็มที่เมื่ออยู่ด้วยกัน'. Step 2: 'จังหวะ Cold (ถอยห่าง) - ถอดปลั๊กและกลับเข้าสู่โลกส่วนตัว ทิ้งระยะห่างให้เขาคิดถึง'. Step 3: 'สัญชาตญาณนักล่าทำงาน - เกิดแรงดึงดูดและความปรารถนาที่จะเข้าหาคุณอีกครั้ง'. Use soft pastel colors, thermometer or flame/ice icons, and a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book1/pic_book1/infographic_book1_7.png)
 
 ## หัวข้อที่ 7.2 การใช้ความต้องการสันโดษ (Introversion) ให้เป็นข้อได้เปรียบในการถอยห่าง
 
@@ -450,7 +450,7 @@
 
 ## หัวข้อที่ 8.1 การดึง Ti มาช่วยประเมินสถานการณ์และกรองอารมณ์ที่ซับซ้อน
 
-[PROMPT: A minimal 16:8 Process Infographic showing how Ti filters emotions for INFJ. Step 1: 'รับรู้อารมณ์ความรู้สึก (Fe)'. Step 2: 'ถอยรักษาระยะห่าง (Detachment)'. Step 3: 'วิเคราะห์ด้วยตรรกะ (Ti)'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Process Infographic showing how Ti filters emotions for INFJ. Step 1: 'รับรู้อารมณ์ความรู้สึก (Fe)'. Step 2: 'ถอยรักษาระยะห่าง (Detachment)'. Step 3: 'วิเคราะห์ด้วยตรรกะ (Ti)'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book1/pic_book1/infographic_book1_8.png)
 
 เมื่อพูดถึงกลไกของ *Cognitive Function* สำหรับผู้หญิง INFJ แล้ว ฟังก์ชัน **Introverted Thinking (Ti)** หรือตรรกะและเหตุผลภายใน ถือเป็นฟังก์ชันลำดับที่สาม (Tertiary Function) ที่มักจะถูกซ่อนไว้ใต้พรมเมื่อเราเริ่มมีความรัก ความที่ฟังก์ชันความเห็นอกเห็นใจ (Fe) ของเราทำงานได้รวดเร็วและรุนแรงมาก ทำให้บ่อยครั้งเราซึมซับเอาความรู้สึกของเป้าหมายเข้ามาเป็นของตัวเอง จนมองข้ามความเป็นจริงที่อยู่ตรงหน้า
 
@@ -548,7 +548,7 @@
 
 >💡 **Siren's Secret** : ผู้ชายจะรู้สึกผ่อนคลายและอยากรุกเข้าหาคุณมากขึ้น เมื่อเขาเห็นว่าคุณเองก็กำลังเพลิดเพลินกับช่วงเวลาที่มีร่วมกับเขา เลิกตั้งคำถามหรือสแกนเขาในหัวชั่วคราว แล้วหันมาสนุกกับ "ปัจจุบัน" ที่เขากำลังพยายามมอบให้คุณสิคะ
 
-[PROMPT: A minimal 16:8 Process Infographic showing a 3-step guide for INFJ to activate Extraverted Sensing (Se). Step 1: 'หยุดคิดวิเคราะห์ (Stop Overthinking)'. Step 2: 'เปิดรับผัสสะทั้งห้า (Engage the 5 Senses)'. Step 3: 'เพลิดเพลินกับปัจจุบัน (Live in the Moment)'. Use soft pastel colors and icons like a brain, an eye/ear, and a sparkling star on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Process Infographic showing a 3-step guide for INFJ to activate Extraverted Sensing (Se). Step 1: 'หยุดคิดวิเคราะห์ (Stop Overthinking)'. Step 2: 'เปิดรับผัสสะทั้งห้า (Engage the 5 Senses)'. Step 3: 'เพลิดเพลินกับปัจจุบัน (Live in the Moment)'. Use soft pastel colors and icons like a brain, an eye/ear, and a sparkling star on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book1/pic_book1/infographic_book1_9.png)
 
 ## หัวข้อที่ 9.2 การนำเสนอสไตล์และรูปลักษณ์ (Aesthetics) เพื่อสร้างความประทับใจแรกพบ
 
@@ -612,7 +612,7 @@
 *   **ให้พื้นที่ปลอดภัยทางอารมณ์ (Soft Landing Space):** แม้ INTP จะเก่งเรื่องตรรกะ แต่พวกเขามักจะงุ่มง่ามเรื่องอารมณ์ (Inferior Fe) การที่คุณใช้ *Fe* ของคุณมารับฟังไอเดียแปลกๆ ของเขาอย่างตั้งใจ โดยไม่ตัดสิน และโอบรับความเนิร์ดของเขาด้วยความอบอุ่น จะทำให้เขารู้สึกว่าคุณคือ "โอเอซิส" ที่เขาตามหา
 *   **การถกเถียงคือการจีบรูปแบบหนึ่ง:** อย่ากลัวที่จะขัดแย้งทางความคิดกับเขาด้วย *Ti* ของคุณ สำหรับ INTP การได้โต้แย้งทางตรรกะกับผู้หญิงที่ฉลาดและมีมุมมองที่ลึกซึ้ง ถือเป็นประสบการณ์ที่เซ็กซี่ที่สุดอย่างหนึ่งค่ะ
 
-[PROMPT: A minimal 16:8 Grid Infographic showing the seduction strategy for INTJ and INTP. Left side 'INTJ (จอมวางแผน)': icon of a chess piece, text 'ดึงดูดด้วยวิสัยทัศน์ (Ni) และการท้าทายทางปัญญา เว้นระยะห่างเพื่อกระตุ้นการไล่ล่า'. Right side 'INTP (นักคิดวิเคราะห์)': icon of a puzzle, text 'เป็นปริศนาที่ท้าทายตรรกะ (Ti) และเป็นพื้นที่ปลอดภัยทางอารมณ์ (Fe) ที่ยอมรับในตัวตนของเขา'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Grid Infographic showing the seduction strategy for INTJ and INTP. Left side 'INTJ (จอมวางแผน)': icon of a chess piece, text 'ดึงดูดด้วยวิสัยทัศน์ (Ni) และการท้าทายทางปัญญา เว้นระยะห่างเพื่อกระตุ้นการไล่ล่า'. Right side 'INTP (นักคิดวิเคราะห์)': icon of a puzzle, text 'เป็นปริศนาที่ท้าทายตรรกะ (Ti) และเป็นพื้นที่ปลอดภัยทางอารมณ์ (Fe) ที่ยอมรับในตัวตนของเขา'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book1/pic_book1/infographic_book1_10.png)
 
 ### สรุปความต่างและจุดโฟกัสในการสร้างแรงดึงดูด
 
@@ -675,7 +675,7 @@
 
 เมื่อคุณต้องเผชิญหน้ากับผู้ชายกลุ่มนี้ ข่าวดีก็คือคุณไม่ต้องพยายามทำตัวให้ดูน่าสนใจเลยค่ะ เพราะความซับซ้อนและความลึกซึ้งที่คุณมีอยู่แล้วตามธรรมชาติ คือสิ่งที่พวกเขากำลังตามหามาทั้งชีวิต กลยุทธ์ *Passive Attraction* ของคุณในบริบทนี้ คือการวางตัวเป็น **The Ideal Lover** (ผู้เป็นดั่งอุดมคติ) ที่สะท้อนภาพฝันและความลึกซึ้งที่พวกเขาโหยหา
 
-[PROMPT: A minimal 16:8 Grid Infographic showing the compatibility dynamics between INFJ women and NF men. Divided into two sections. Left section: 'จับคู่กับกลุ่ม Extravert (ENFJ / ENFP)' with keywords 'รับฟังและเป็นพื้นที่ปลอดภัย'. Right section: 'จับคู่กับกลุ่ม Introvert (INFJ / INFP)' with keywords 'สะท้อนอุดมการณ์และสร้างแรงบันดาลใจ'. Use soft pastel colors and icons like a glowing heart and puzzle pieces on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยทั้งหมดเท่านั้น.]
+![ A minimal 16:8 Grid Infographic showing the compatibility dynamics between INFJ women and NF men. Divided into two sections. Left section: 'จับคู่กับกลุ่ม Extravert (ENFJ / ENFP)' with keywords 'รับฟังและเป็นพื้นที่ปลอดภัย'. Right section: 'จับคู่กับกลุ่ม Introvert (INFJ / INFP)' with keywords 'สะท้อนอุดมการณ์และสร้างแรงบันดาลใจ'. Use soft pastel colors and icons like a glowing heart and puzzle pieces on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยทั้งหมดเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book1/pic_book1/infographic_book1_11.png)
 
 เพื่อให้คุณมองเห็นภาพที่ชัดเจนขึ้น เอสเธอร์ได้สรุปพลวัตแรงดึงดูดระหว่างคุณกับผู้ชายกลุ่ม NF ทั้ง 4 Type ไว้ดังนี้ค่ะ:
 
@@ -786,7 +786,7 @@
 
 >⚓ **Anchor of Love** : ชายกลุ่ม SJ จะตกหลุมรักคนที่ทำให้เขารู้สึกว่าโลกที่คาดเดาไม่ได้นี้ มีมุมที่สงบและปลอดภัยรอเขาอยู่ การที่คุณไม่ทำตัวเป็นฝ่ายรุกไล่ต้อน แต่เยือกเย็น สง่างาม และเปิดรับ คือมนตร์เสน่ห์ที่ทำให้พวกเขารู้สึกว่าคุณคือ "บ้าน" ที่เขาอยากกลับมาหาทุกวัน
 
-[PROMPT: A minimal 16:8 Grid Infographic comparing the relationship dynamics between 'INFJ x ISTJ' and 'INFJ x ISFJ'. The left side shows ISTJ traits with icons representing stability and logic. The right side shows ISFJ traits with icons representing warmth and detailed care. Use soft pastel colors and clean icons on a white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Grid Infographic comparing the relationship dynamics between 'INFJ x ISTJ' and 'INFJ x ISFJ'. The left side shows ISTJ traits with icons representing stability and logic. The right side shows ISFJ traits with icons representing warmth and detailed care. Use soft pastel colors and clean icons on a white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book1/pic_book1/infographic_book1_12.png)
 
 ## หัวข้อที่ 12.2 การทลายกำแพงของนักปฏิบัติที่มีระเบียบแบบแผน: รับมือกับ ESTJ และ ESFJ
 

@@ -32,7 +32,7 @@
 
 >🔮 **The Siren's Mindset** : เสน่ห์ที่แท้จริงและยั่งยืนไม่ได้เกิดจากการพยายามเป็นคนที่สมบูรณ์แบบไร้ที่ติ แต่เกิดจากการยอมรับในความซับซ้อนของตัวเอง และใช้ความ "คาดเดาไม่ได้" นั้นเป็นกุญแจสำคัญในการรักษาสมดุลและควบคุมเกมความสัมพันธ์ในระยะยาวค่ะ
 
-[PROMPT: A minimal 16:8 Informational Infographic showing the transformation of an INFJ woman before and after unlocking her potential. Left side represents 'อดีต: ผู้ให้ที่เหนื่อยล้า (People Pleaser)' with dull colors and cluttered elements. Right side represents 'ปัจจุบัน: ผู้คุมเกมความสัมพันธ์ (The Introverted Siren)' with confident soft pastel colors and an elegant minimalist layout. Use a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Informational Infographic showing the transformation of an INFJ woman before and after unlocking her potential. Left side represents 'อดีต: ผู้ให้ที่เหนื่อยล้า (People Pleaser)' with dull colors and cluttered elements. Right side represents 'ปัจจุบัน: ผู้คุมเกมความสัมพันธ์ (The Introverted Siren)' with confident soft pastel colors and an elegant minimalist layout. Use a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book2/pic_book2/infographic_book2_1.png)
 
 ความก้าวหน้าของคุณมาไกลเกินกว่าจะกลับไปเป็นคนเดิมที่ยอมให้ใครมาเอาเปรียบความใจดีของคุณแล้วล่ะค่ะ เอสเธอร์ขอแสดงความยินดีกับเวอร์ชันที่ดีที่สุดของคุณในวันนี้นะคะ เตรียมตัวให้พร้อม เพราะในหัวข้อถัดไป เราจะมาเจาะลึกความซับซ้อนของกลไกการทำงานในสมองที่จะทำให้คุณเชี่ยวชาญการดึงดูดใจในอีกระดับค่ะ
 
@@ -105,7 +105,7 @@
 
 >{eye} **Insightful Radar** : เอสเธอร์อยากเตือนว่า สิ่งที่ท้าทายที่สุดในการใช้ Ni คือการต้องแยกให้ออกระหว่าง **"สัญชาตญาณที่แท้จริง"** กับ **"ความหวาดระแวง (Paranoia)"** ที่เกิดจากบาดแผลในอดีต วิธีตรวจสอบง่ายๆ คือ สัญชาตญาณมักมาพร้อมกับความรู้สึกที่นิ่ง สงบ และเป็นข้อเท็จจริงที่สัมผัสได้ลึกๆ ในขณะที่ความหวาดระแวงจะมาพร้อมกับอารมณ์ตื่นตระหนกและวิตกกังวลค่ะ
 
-[PROMPT: A minimal 16:8 Interactive-style Infographic showing a radar or dashboard interface for evaluating Red Flags by an INFJ's Ni. The radar screen highlights 3 dots. Dot 1: 'ความไม่สอดคล้อง (Incongruence)'. Dot 2: 'ปฏิกิริยายามกดดัน (Pressure Response)'. Dot 3: 'คำเยินยอแอบแฝง (Hidden Agenda)'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Interactive-style Infographic showing a radar or dashboard interface for evaluating Red Flags by an INFJ's Ni. The radar screen highlights 3 dots. Dot 1: 'ความไม่สอดคล้อง (Incongruence)'. Dot 2: 'ปฏิกิริยายามกดดัน (Pressure Response)'. Dot 3: 'คำเยินยอแอบแฝง (Hidden Agenda)'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book2/pic_book2/infographic_book2_2.png)
 
 การปล่อยให้ Ni สแกนและวิเคราะห์พฤติกรรมระดับอณูเหล่านี้ จะทำให้คุณไม่หลงไปกับภาพลวงตาที่ใครบางคนสร้างขึ้น และนี่แหละค่ะคือขั้นตอนแรกของการรักษาดุลอำนาจแบบ *Passive Attractive* ที่จะทำให้เป้าหมายรู้สึกว่า คุณช่างอ่านเกมขาดและยากที่จะหลอกลวง ซึ่งเป็นจุดเริ่มต้นของความเคารพและความหลงใหลในระยะยาว
 
