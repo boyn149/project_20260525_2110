@@ -173,7 +173,7 @@
 
 >💎 **The Siren's Secret** : จุดสำคัญที่สุดของการใช้ *Fe* ในขั้นตอนนี้คือ "ความแนบเนียน" อย่าให้เขารู้สึกว่าคุณกำลัง "พยายาม" บำบัดหรือวิเคราะห์เขา เสน่ห์ที่แท้จริงคือการทำให้เขารู้สึกว่า คุณคือจิ๊กซอว์ชิ้นสุดท้ายที่หล่นลงมาพอดีในช่องว่างของหัวใจเขาโดยบังเอิญและเป็นธรรมชาติที่สุดค่ะ
 
-[PROMPT: A minimal 16:8 Process Infographic showing a 3-step strategy for INFJ using Fe to fulfill deep emotional needs. Step 1: 'อ่านหน้าฉาก (Observe the Facade)'. Step 2: 'ค้นหาช่องโหว่ (Identify the Void)'. Step 3: 'เติมเต็มอย่างแยบยล (Fulfill Subtly)'. Use soft pastel colors and sophisticated icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Process Infographic showing a 3-step strategy for INFJ using Fe to fulfill deep emotional needs. Step 1: 'อ่านหน้าฉาก (Observe the Facade)'. Step 2: 'ค้นหาช่องโหว่ (Identify the Void)'. Step 3: 'เติมเต็มอย่างแยบยล (Fulfill Subtly)'. Use soft pastel colors and sophisticated icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book2/pic_book2/infographic_book2_3.png)
 
 ## หัวข้อที่ 3.2 การยกระดับการเป็น "พื้นที่ปลอดภัย" สู่การเป็น "ที่พึ่งพิงทางจิตวิญญาณ"
 
@@ -251,7 +251,7 @@
 2.  **กำหนดกฎเกณฑ์ที่ละเมิดไม่ได้ (Non-Negotiables):** สร้างลิสต์มาตรฐานความสัมพันธ์ที่คุณจะไม่ยอมประนีประนอมอย่างเด็ดขาด และเมื่อไหร่ที่อีกฝ่ายล้ำเส้นนี้ คุณต้องกล้าที่จะใช้บทลงโทษ (เช่น การถอยห่าง หรือการเงียบ) อย่างตรงไปตรงมา
 3.  **เปลี่ยนการใช้อารมณ์ร่วมเป็นการสังเกตการณ์:** ลองเปลี่ยนมุมมองจากผู้เล่นเป็นผู้สังเกตการณ์ ประเมินการกระทำและคำพูดของเขาเป็น *ชุดข้อมูลทางตรรกะ* มากกว่าจะมองผ่านฟิลเตอร์ของความสงสาร สิ่งนี้จะช่วยให้คุณจับสัญญาณอันตรายได้ไวขึ้นและไม่ตกเป็นเหยื่อของการปั่นหัว
 
-[PROMPT: A minimal 16:8 Informational Infographic showing the balance between Fe and Ti in a long-term relationship for an INFJ. Left side: 'Fe (ความเข้าอกเข้าใจ)' showing warm, soft icons representing empathy and connection. Right side: 'Ti (ตรรกะและขอบเขต)' showing structured, sharp icons representing boundaries and self-respect. Center: A balance scale indicating 'อำนาจและเสน่ห์ที่สมดุล'. Use soft pastel colors and modern icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยทั้งหมดเท่านั้น.]
+![ A minimal 16:8 Informational Infographic showing the balance between Fe and Ti in a long-term relationship for an INFJ. Left side: 'Fe (ความเข้าอกเข้าใจ)' showing warm, soft icons representing empathy and connection. Right side: 'Ti (ตรรกะและขอบเขต)' showing structured, sharp icons representing boundaries and self-respect. Center: A balance scale indicating 'อำนาจและเสน่ห์ที่สมดุล'. Use soft pastel colors and modern icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยทั้งหมดเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book2/pic_book2/infographic_book2_4.png)
 
 ## หัวข้อที่ 4.2 การใช้ Se เพื่อแทรกซึมเสน่ห์ทางกายภาพและสร้างประสบการณ์ที่กระตุ้นประสาทสัมผัสในระยะยาว
 
