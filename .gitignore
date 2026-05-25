@@ -1,0 +1,6 @@
+src/
+.vscode/
+scripts/
+notebooklm-py-light/
+gemini-api/
+*.py
