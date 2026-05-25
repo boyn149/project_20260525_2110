@@ -208,7 +208,7 @@
 
 กลไก Ni ของคุณสร้าง **Passive Attraction** ชั้นยอด เพราะธรรมชาติของคุณไม่ใช่คนที่ชอบเปิดเผยทุกเรื่องราวในชีวิตให้ใครฟัง คุณมักจะนั่งประมวลผลอยู่เงียบๆ ซึมซับบรรยากาศ และคิดวิเคราะห์อยู่ภายใน ซึ่งความนิ่งสงบนี้แหละค่ะที่สร้าง "ออร่าแห่งความน่าค้นหา" ออกมาโดยที่คุณไม่ต้องพยายามทำตัวลึกลับเลย
 
-[PROMPT: A minimal 16:8 Educational Infographic (Process Infographic) showing the mechanism of Ni in creating a mysterious aura. Step 1: 'สังเกตอย่างเงียบเชียบ (Observe)'. Step 2: 'ประมวลผลเชิงลึก (Process)'. Step 3: 'เปิดเผยเพียงบางส่วน (Reveal Less)'. Use soft pastel colors, elegant lines, and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Educational Infographic (Process Infographic) showing the mechanism of Ni in creating a mysterious aura. Step 1: 'สังเกตอย่างเงียบเชียบ (Observe)'. Step 2: 'ประมวลผลเชิงลึก (Process)'. Step 3: 'เปิดเผยเพียงบางส่วน (Reveal Less)'. Use soft pastel colors, elegant lines, and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book1/pic_book1/infographic_book1_4.png)
 
 เพื่อที่จะดึงพลังของ Ni ออกมาใช้เป็นเครื่องมือสร้างเสน่ห์อย่างสมบูรณ์แบบ เอสเธอร์อยากให้คุณลองปรับมุมมองและนำเทคนิคเหล่านี้ไปใช้ค่ะ:
 
