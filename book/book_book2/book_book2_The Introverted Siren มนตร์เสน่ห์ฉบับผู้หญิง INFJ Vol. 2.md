@@ -812,7 +812,7 @@
 
 > 🧩 **Siren's Illusion** : ความลับในการดึงดูดผู้ชายกลุ่ม Guardian ในระยะยาวคือ "การสร้างความตื่นเต้นที่คาดเดาได้" เอสเธอร์แนะนำให้คุณกระตุ้นความสนใจของเขาด้วยการสร้างประสบการณ์ใหม่ๆ ที่มีกลิ่นอายของความคลาสสิก หรือเชื่อมโยงกับสิ่งที่เขาคุ้นเคย เพื่อไม่ให้ฟังก์ชัน *Si* ของเขาตื่นตระหนกจนเกินไป นี่คือการฝังตัวตนของคุณลงในจิตใต้สำนึกของเขาอย่างแนบเนียนค่ะ
 
-[PROMPT: A minimal 16:8 Educational Infographic (Grid Infographic) showing the strategy to complement ISTJ and ISFJ. Left card: 'โลกของชาย SJ (Si-Dom) - ความมั่นคง, กฎเกณฑ์, หน้าที่'. Right card: 'สิ่งที่ INFJ เติมเต็ม (Ni+Fe) - วิสัยทัศน์, สุนทรียภาพ, ความหมาย'. Center: A minimal puzzle piece icon smoothly connecting the two sides. Use soft pastel colors and elegant professional icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยทั้งหมดเท่านั้น.]
+![ A minimal 16:8 Educational Infographic (Grid Infographic) showing the strategy to complement ISTJ and ISFJ. Left card: 'โลกของชาย SJ (Si-Dom) - ความมั่นคง, กฎเกณฑ์, หน้าที่'. Right card: 'สิ่งที่ INFJ เติมเต็ม (Ni+Fe) - วิสัยทัศน์, สุนทรียภาพ, ความหมาย'. Center: A minimal puzzle piece icon smoothly connecting the two sides. Use soft pastel colors and elegant professional icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยทั้งหมดเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book2/pic_book2/infographic_book2_11.png)
 
 ## หัวข้อที่ 11.2 การทลายความแข็งกระด้างและทัศนคติเผด็จการของ ESTJ และ ESFJ อย่างนุ่มนวล
 
