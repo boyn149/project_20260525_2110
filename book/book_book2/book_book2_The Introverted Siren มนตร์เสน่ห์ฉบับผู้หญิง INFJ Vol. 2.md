@@ -883,7 +883,7 @@
 
 การผสานกลไกของ **Cognitive Function** เข้ากับศาสตร์แห่ง **Art of Seduction** จะช่วยให้คุณปรับตัวได้อย่างเป็นธรรมชาติ โดยไม่ต้องฝืนตัวตน เอสเธอร์ขอแบ่งจังหวะของชีวิตรักออกเป็น 3 ระยะสำคัญ เพื่อให้คุณเห็นภาพการนำกลยุทธ์มาประยุกต์ใช้ได้อย่างชัดเจนที่สุดค่ะ
 
-[PROMPT: A minimal 16:8 Hierarchy Infographic showing the integration of INFJ strategies. Level 1: 'ดึงดูดด้วยความลึกลับ (Ni)'. Level 2: 'ผูกพันด้วยความลึกซึ้ง (Fe)'. Level 3: 'รักษาสมดุลและขอบเขต (Ti & Se)'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Hierarchy Infographic showing the integration of INFJ strategies. Level 1: 'ดึงดูดด้วยความลึกลับ (Ni)'. Level 2: 'ผูกพันด้วยความลึกซึ้ง (Fe)'. Level 3: 'รักษาสมดุลและขอบเขต (Ti & Se)'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book2/pic_book2/infographic_book2_12.png)
 
 ### 1. จังหวะเริ่มต้น: สร้างแรงดึงดูดและปริศนา (The Awakening)
 นี่คือจังหวะที่คุณดึงความรู้จากเล่มแรกมาใช้อย่างเต็มกำลัง เป้าหมายในระยะนี้คือการร่ายมนตร์ให้เขาสะดุดตาและไม่อาจละสายตาจากคุณได้โดยที่คุณแทบไม่ต้องออกแรงรุก
