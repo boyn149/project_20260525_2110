@@ -646,7 +646,7 @@
 
 >💡 **Pro Tip** : ผู้ชายกลุ่ม NT มักมีฟังก์ชันด้านความรู้สึก (Feeling) เป็นฟังก์ชันลำดับล่างๆ ดังนั้น การแสดงความรักของพวกเขาอาจไม่ออกมาในรูปแบบของความโรแมนติก แต่มาในรูปแบบของการพยายามแก้ปัญหาให้คุณ หรือการแบ่งปันความรู้ที่เขาสนใจ จงใช้ *Ni* ของคุณในการมองให้ทะลุถึงเจตนาเบื้องหลัง และชื่นชมในความพยายามนั้นอย่างจริงใจค่ะ
 
-[PROMPT: A minimal 16:8 Hierarchy Infographic showing the levels of intellectual connection to seduce INTJ and INTP for an INFJ. Base level (Level 1): 'การรับฟังและการตั้งคำถาม (Intellectual Sparring)'. Middle level (Level 2): 'การนำเสนอวิสัยทัศน์ที่ซับซ้อน (Unsolved Puzzle)'. Top level (Level 3): 'การเป็นคู่คิดทางปัญญาที่ขาดไม่ได้ (Mindmate)'. Use soft pastel colors and sophisticated geometric icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Hierarchy Infographic showing the levels of intellectual connection to seduce INTJ and INTP for an INFJ. Base level (Level 1): 'การรับฟังและการตั้งคำถาม (Intellectual Sparring)'. Middle level (Level 2): 'การนำเสนอวิสัยทัศน์ที่ซับซ้อน (Unsolved Puzzle)'. Top level (Level 3): 'การเป็นคู่คิดทางปัญญาที่ขาดไม่ได้ (Mindmate)'. Use soft pastel colors and sophisticated geometric icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book2/pic_book2/infographic_book2_9.png)
 
 ## หัวข้อที่ 9.2 ศิลปะการเป็นกุนซือและผู้มีอิทธิพลเงียบเหนือผู้นำจอมหลักการอย่าง ENTJ และ ENTP
 
