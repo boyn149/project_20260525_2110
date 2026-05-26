@@ -316,7 +316,7 @@
 ### กลยุทธ์ Anti-Familiarity: ตรรกะแห่งความลึกลับ
 เพื่อต่อต้านความเบื่อหน่าย คุณจำเป็นต้องเรียนรู้ที่จะสับสวิตช์การใช้ Cognitive Function ของคุณใหม่ ด้วยการดึงตรรกะ *Introverted Thinking (Ti)* เข้ามาเบรกความใจดีของ *Fe* และกลับไปหล่อเลี้ยงโลกภายในด้วย *Ni* อีกครั้ง กลยุทธ์ **Anti-Familiarity** ไม่ใช่การทำตัวเย็นชาหรือเล่นเกมประสาทนะคะ แต่มันคือศิลปะในการสร้างขอบเขตและการสงวนท่าทีบางอย่างไว้ เพื่อกระตุ้นให้เขาต้องใช้ความพยายามในการทำความเข้าใจคุณอย่างต่อเนื่อง
 
-[PROMPT: A minimal 16:8 Grid Infographic showing the contrast between "Familiarity Trap" (ใช้ Fe มากเกินไปจนคาดเดาง่าย) and "Anti-Familiarity Strategy" (ดึง Ni และ Ti กลับมาสร้างความลึกลับ). Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Grid Infographic showing the contrast between "Familiarity Trap" (ใช้ Fe มากเกินไปจนคาดเดาง่าย) and "Anti-Familiarity Strategy" (ดึง Ni และ Ti กลับมาสร้างความลึกลับ). Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book2/pic_book2/infographic_book2_5.png)
 
 #### 3 กฎเหล็กในการต่อต้านความเบื่อหน่าย
 *   **หยุดอธิบายทุกอย่าง (Stop Over-explaining):** คุณไม่จำเป็นต้องรายงานทุกความคิดหรือทุกย่างก้าวให้เขารู้ การปล่อยให้การกระทำบางอย่างของคุณมีเครื่องหมายคำถาม จะทำให้เขาต้องเก็บคุณไปคิดวิเคราะห์ต่อในหัว
@@ -400,7 +400,7 @@
 *   **ปลุกเร้าอดีตด้วยประสาทสัมผัส (Sensory Anchoring)**
     การจะดึงเขากลับไปสู่ความทรงจำอันหอมหวาน ต้องอาศัยฟังก์ชันรองอย่าง **Extraverted Sensing (Se)** เข้ามาช่วยค่ะ ลองใช้กลิ่นน้ำหอมที่คุณเคยใช้ในเดตแรก พาเขากลับไปร้านอาหารที่เต็มไปด้วยความทรงจำ หรือเปิดเพลงที่มีความหมายร่วมกัน การกระตุ้นผ่านประสาทสัมผัสทางกายภาพจะลัดคิวผ่านสมองส่วนตรรกะ และพุ่งตรงเข้าสู่สมองส่วนอารมณ์ ทำให้เขารู้สึกวาบหวามและโหยหาคุณราวกับเพิ่งตกหลุมรักกันใหม่ๆ
 
-[PROMPT: A minimal 16:8 Process Infographic showing the 3-step 'Effect a Regression' strategy for INFJ. Step 1: 'สังเกตบาดแผลในอดีต (Ni)'. Step 2: 'สร้างพื้นที่ปลอดภัยไร้เงื่อนไข (Fe)'. Step 3: 'กระตุ้นความทรงจำและประสาทสัมผัส (Se)'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Process Infographic showing the 3-step 'Effect a Regression' strategy for INFJ. Step 1: 'สังเกตบาดแผลในอดีต (Ni)'. Step 2: 'สร้างพื้นที่ปลอดภัยไร้เงื่อนไข (Fe)'. Step 3: 'กระตุ้นความทรงจำและประสาทสัมผัส (Se)'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book2/pic_book2/infographic_book2_6.png)
 
 >💡 **Siren's Secret** : การพาดึงเขากลับไปสู่อดีต ไม่ใช่การรื้อฟื้นเรื่องตกระกำลำบากหรือการพูดคุยเรื่องเก่าซ้ำซากนะคะ แต่คือการ *จำลองสภาวะทางอารมณ์* ที่ทำให้เขารู้สึกปลอดภัยที่สุด คุ้นเคยที่สุด และยอมจำนนต่อคุณอย่างราบคาบที่สุดค่ะ
 
@@ -480,7 +480,7 @@
 
 >🔥 **The Siren's Secret** : เมื่อคุณยอมรับได้ว่า "ความขัดแย้งเล็กๆ" หรือ "ความห่างเหินชั่วคราว" ไม่ใช่สัญญาณของความล้มเหลว แต่เป็นเพียงเครื่องเทศที่เพิ่มรสชาติให้ความรัก คุณจะหลุดพ้นจากความกังวล และสามารถเล่นเกมแห่งแรงปรารถนานี้ได้อย่างสง่างามค่ะ
 
-[PROMPT: A minimal 16:8 Informational Infographic showing the psychology of challenge in love. Left side showing 'ความราบรื่นเกินไป (Toxic Smoothness)' with a flat straight line icon representing boredom. Right side showing 'สลับความสุขและความท้าทาย (Pleasure & Pain)' with an undulating heartbeat or wave icon representing passion and excitement. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยทั้งหมดเท่านั้น.]
+![ A minimal 16:8 Informational Infographic showing the psychology of challenge in love. Left side showing 'ความราบรื่นเกินไป (Toxic Smoothness)' with a flat straight line icon representing boredom. Right side showing 'สลับความสุขและความท้าทาย (Pleasure & Pain)' with an undulating heartbeat or wave icon representing passion and excitement. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยทั้งหมดเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book2/pic_book2/infographic_book2_7.png)
 
 เอสเธอร์อยากให้คุณลองปรับมุมมองใหม่ดูค่ะ แทนที่จะใช้ *Ni (Introverted Intuition)* ของคุณในการคาดการณ์เพื่อหลบหลีกปัญหา ลองใช้มันเพื่อคำนวณหาจังหวะที่เหมาะสมในการ "ดึง" และ "ดัน" อารมณ์ของเขาดูบ้าง 
 
@@ -559,7 +559,7 @@
 *   **การเคลื่อนไหวที่เชื่องช้าและสง่างาม (Grounded Se):** เมื่อเกิดความขัดแย้ง คนส่วนใหญ่มักจะขยับตัวเร็ว หายใจแรง หรือลุกลี้ลุกลน เอสเธอร์แนะนำให้คุณดึงฟังก์ชัน **Se (Extraverted Sensing)** ของคุณออกมาใช้เพื่อควบคุมร่างกายให้อยู่กับปัจจุบัน นั่งหลังตรง ขยับตัวให้ช้าลง หยิบจับสิ่งของด้วยความนุ่มนวล ความเชื่องช้านี้จะสร้างออร่าของความมีอำนาจ (*Presence*) ที่ทำให้อีกฝ่ายรู้สึกว่าพายุอารมณ์ของเขาไม่มีผลกระทบใดๆ ต่อโลกของคุณเลย
 *   **ความเงียบที่ดังกึกก้อง (The Power of Silence):** ทิ้งช่วงจังหวะให้ความเงียบทำงานแทนคุณ เมื่อเขาพูดจบประโยคที่เต็มไปด้วยอารมณ์ อย่าเพิ่งรีบสวนกลับ ปล่อยให้ความเงียบเข้าปกคลุมสัก 3-5 วินาที ความเงียบนี้จะทำหน้าที่เป็นกระจกสะท้อนให้เขาได้ยินเสียงตะโกนและอารมณ์ที่ไร้เหตุผลของตัวเอง ซึ่งมักจะทำให้เขารู้สึกผิดและเริ่มลดระดับความรุนแรงลงมาเอง
 
-[PROMPT: A minimal 16:8 Process Infographic showing a 3-step strategy for INFJ to use calmness to defuse aggression. Step 1: 'ดึงสติและสงวนท่าที (Introversion + Ni)'. Step 2: 'ใช้สายตาและภาษากายนิ่งเฉย (Se)'. Step 3: 'ใช้ความเงียบสะท้อนอารมณ์อีกฝ่าย'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.]
+![ A minimal 16:8 Process Infographic showing a 3-step strategy for INFJ to use calmness to defuse aggression. Step 1: 'ดึงสติและสงวนท่าที (Introversion + Ni)'. Step 2: 'ใช้สายตาและภาษากายนิ่งเฉย (Se)'. Step 3: 'ใช้ความเงียบสะท้อนอารมณ์อีกฝ่าย'. Use soft pastel colors and icons on a clean white background. เนื้อหาในรูปต้องเป็นภาษาไทยเท่านั้น.](https://raw.githubusercontent.com/boyn149/project_20260525_2110/main/book/book_book2/pic_book2/infographic_book2_8.png)
 
 เมื่อคุณฝึกฝนการใช้ความสงบนี้จนเป็นธรรมชาติ คุณจะพบว่าความเยือกเย็นของคุณคือสิ่งที่ทำให้เขารู้สึกยำเกรง เขาจะเริ่มตระหนักว่าเขาไม่สามารถปั่นหัวคุณได้ และวิธีเดียวที่เขาจะได้รับการยอมรับหรือการเชื่อมโยงจากคุณอีกครั้ง คือการที่เขาต้องเป็นฝ่ายสงบสติอารมณ์และเดินเข้ามาหาคุณด้วยเหตุผล 
 
