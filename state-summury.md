@@ -36,3 +36,14 @@
 - **Repository:** https://github.com/boyn149/project_20260525_2110
 - **Branch:** main
 - **Files Pushed:** Everything except folder `src`, `scripts`, `notebooklm-py-light`, `gemini-api`, and `.vscode`.
+
+## Phase 4: สร้างรูปภาพและ Upload ขึ้น Git
+- **Status:** In-Progress (Partially Completed)
+- **Book 1 (The Introverted Siren Vol. 1):**
+    - **Infographics:** 12/12 created and uploaded to GitHub.
+    - **URL Embedding:** Completed (All 12 prompts replaced with Raw GitHub URLs).
+- **Book 2 (The Introverted Siren Vol. 2):**
+    - **Infographics:** 4/12 created and uploaded to GitHub.
+    - **Status:** Encountered `RPC CREATE_ARTIFACT failed` for images 5-12 (Likely Rate Limit).
+- **GitHub Repository:** https://github.com/boyn149/project_20260525_2110
+- **Next Step:** Generate remaining 8 images for Book 2 using Nanobanana as per Global Rules.
