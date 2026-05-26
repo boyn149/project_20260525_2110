@@ -47,3 +47,12 @@
     - **Status:** Encountered `RPC CREATE_ARTIFACT failed` for images 5-12 (Likely Rate Limit).
 - **GitHub Repository:** https://github.com/boyn149/project_20260525_2110
 - **Next Step:** Generate remaining 8 images for Book 2 using Nanobanana as per Global Rules.
+
+## Phase 4: ?????????????? Upload ???? Git (Final Update)
+- **Status:** Completed
+- **Date:** 2026-05-26 08:08:33
+- **Book 1 (The Introverted Siren Vol. 1):** 12/12 images completed (NotebookLM).
+- **Book 2 (The Introverted Siren Vol. 2):** 12/12 images completed (4 by NotebookLM, 8 by Nanobanana 2).
+- **Total Images:** 24/24 uploaded to GitHub.
+- **GitHub Repository:** https://github.com/boyn149/project_20260525_2110
+- **URL Embedding:** All 24 prompts replaced with Raw GitHub URLs in both books.
